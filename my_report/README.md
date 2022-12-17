@@ -42,7 +42,15 @@
  # Εχθρός
  
  ![Screenshot (37)](https://user-images.githubusercontent.com/94792023/208254406-b46f6971-7a3a-4818-97a9-8f1889022cbb.png)
+ 
+ # Παγίδα
+ 
+ ![Screenshot (38)](https://user-images.githubusercontent.com/94792023/208254483-75432ef2-7c00-4721-b27f-528d5e907c41.png)
 
+ # Ζωές
+ 
+ ![Screenshot (41)](https://user-images.githubusercontent.com/94792023/208254511-367e600a-9178-43ca-9ba7-8438d26cb055.png)
+ 
 # 3rd Deliverable 
 
 
@@ -50,6 +58,8 @@
 
 
 # Sources
+
+
 
 
 
