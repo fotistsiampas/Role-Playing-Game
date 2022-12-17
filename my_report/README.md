@@ -43,16 +43,32 @@
  
  ![Screenshot (37)](https://user-images.githubusercontent.com/94792023/208254406-b46f6971-7a3a-4818-97a9-8f1889022cbb.png)
  
+  Στον εχθρό έβαλα τις παρακάτω παραμέτρους
+  
+  ![Screenshot (44)](https://user-images.githubusercontent.com/94792023/208255283-8c043264-2e77-429a-97f8-931e1aff65d4.png)
+  
+ 
  # Παγίδα
  
  ![Screenshot (38)](https://user-images.githubusercontent.com/94792023/208254483-75432ef2-7c00-4721-b27f-528d5e907c41.png)
+ 
+ Στην παγίδα έβαλα τα εξής
+ 
+ ![Screenshot (46)](https://user-images.githubusercontent.com/94792023/208255345-1913a00c-c4ea-441c-8ef6-09f9d746686d.png)
+
 
  # Ζωές
  
  ![Screenshot (41)](https://user-images.githubusercontent.com/94792023/208254511-367e600a-9178-43ca-9ba7-8438d26cb055.png)
  
  
+ ![Screenshot (48)](https://user-images.githubusercontent.com/94792023/208255394-ca1b34c1-9228-42e2-a560-7413feb5c9e6.png)
+
+ # Όπλο
  
+ ![Kunai](https://user-images.githubusercontent.com/94792023/208255418-be686fcb-f2c4-4bb2-819b-4d54f8c7bcc4.png)
+
+![Screenshot (50)](https://user-images.githubusercontent.com/94792023/208255454-128025a2-88b8-450d-bb19-7b933d4ede0e.png)
  
 # 3rd Deliverable 
 
@@ -61,6 +77,8 @@
 
 
 # Sources
+
+
 
 
 
