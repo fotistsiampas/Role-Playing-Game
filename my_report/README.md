@@ -32,6 +32,18 @@
 
 ![Run__002](https://user-images.githubusercontent.com/94792023/208254114-0078dde2-3167-4924-a2dd-37b962e08583.png)
 
+
+ # Animation hurt
+ 
+ ![Dead__004](https://user-images.githubusercontent.com/94792023/208255823-306627c0-605d-482d-96dc-405104a4a71b.png)
+ 
+ 
+ # Animation idle
+ 
+ ![Idle__000](https://user-images.githubusercontent.com/94792023/208255867-220a10cd-115e-4d14-9841-4b1385fd6ee0.png)
+
+
+
 Ο παίχτης μου κινείται δεξία και αριστερά αριστερά κάνοντας flip στον χ το animation και για πάνω και κάτω έχω βάλει τα ίδια abimation διότι το πακέτο με τα asset δεν είχε για πάνω και για κάτω.
 
 Επίσης οριοθέτησα την πίστα με κάποιες πέτρες 
@@ -48,6 +60,21 @@
  # Εχθρός
  
  ![Screenshot (37)](https://user-images.githubusercontent.com/94792023/208254406-b46f6971-7a3a-4818-97a9-8f1889022cbb.png)
+ 
+ # Animation idle
+ 
+ ![Idle (8)](https://user-images.githubusercontent.com/94792023/208255893-6243a1ee-b0f9-4ad0-9f82-1da9144eacdd.png)
+
+ 
+ # Animation dead
+ 
+ ![Dead (10)](https://user-images.githubusercontent.com/94792023/208255917-acf8cfc6-afff-402a-88c5-04e241938f0b.png)
+
+
+# Animation run 
+
+![Run (6)](https://user-images.githubusercontent.com/94792023/208255941-b14bf816-ce91-4b2b-8e0e-96798a257453.png)
+
  
   Στον εχθρό έβαλα τις παρακάτω παραμέτρους
   
@@ -83,6 +110,7 @@
 
 
 # Sources
+
 
 
 
