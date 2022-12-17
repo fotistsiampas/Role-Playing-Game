@@ -39,7 +39,8 @@
 ![Screenshot (39)](https://user-images.githubusercontent.com/94792023/208254293-c2b3a2da-52c2-459f-b618-65821d2f7fec.png)
  Βαρέλια τα οποία έχω βάλει colliders για να δυσκολεύεται ο παίχτης να περάσει 
  
- `Εχθρός`
+ # Εχθρός
+ 
  ![Screenshot (37)](https://user-images.githubusercontent.com/94792023/208254406-b46f6971-7a3a-4818-97a9-8f1889022cbb.png)
 
 # 3rd Deliverable 
