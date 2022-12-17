@@ -18,7 +18,29 @@
 ![Screenshot (15)](https://user-images.githubusercontent.com/94792023/201408931-d0807bdc-52a5-4098-8815-94ae9a73094f.png)
 
 # 2nd Deliverable
+`Δεν έχω αλλάξει το όνομα του παιχνιδιού γράφει ακόμα paradoteo 1 αλλά έχει ανέβει κανονικά`  
+Στο δεύτερο παραδοτέο τα περισσότερα από τα ζητούμενα τα έκανα με βάση κάποια από τα tutorial τα οποία μας δινόντουσαν. Δυσκολεύτηκα λίγο στην κάμερα όπου μετά από μια μικρή αναζήτηση ανακάλυψα ότι μπορεί εκτός από την cinemachine που δίνεται μέσα στο tutorial της Ruby η κάμερα να ακολουθεί τον παίκτη και με ενα script το οποίο το βρήκα από [εδώ](https://www.youtube.com/watch?v=FXqwunFQuao). Ένα ακόμα tutorial το οποίο έψαξα ήταν για το [projectile](https://www.youtube.com/watch?v=wkKsl1Mfp5M)
+βοήθησε αρκετά το παραπάνω βίντεο αλλά εν τέλη αυτό το οποίο ακολούθησα ήταν το tutorial της Ruby.
 
+`Animation`
+Τα animation τα έκανα όλα βήμα προς βήμα με βάση το tutorial που μας δώθηκε διότι πιστεύω ήταν αρκετά κατευθηντικό και έπαιζε χωρίς πρόβλημα.
+
+ # Animation throw
+![Throw__003](https://user-images.githubusercontent.com/94792023/208254085-f46e3299-ab9a-4476-bf4c-49afa87f2fca.png)
+
+ # Animation run
+
+![Run__002](https://user-images.githubusercontent.com/94792023/208254114-0078dde2-3167-4924-a2dd-37b962e08583.png)
+
+Ο παίχτης μου κινείται δεξία και αριστερά αριστερά κάνοντας flip στον χ το animation και για πάνω και κάτω έχω βάλει τα ίδια abimation διότι το πακέτο με τα asset δεν είχε για πάνω και για κάτω.
+
+Τώρα όσο αναφορά τα αντικείμενα που πρόσθεσα επιπλεόν στην πίστα μου είναι τα εξής 
+
+![Screenshot (39)](https://user-images.githubusercontent.com/94792023/208254293-c2b3a2da-52c2-459f-b618-65821d2f7fec.png)
+ Βαρέλια τα οποία έχω βάλει colliders για να δυσκολεύεται ο παίχτης να περάσει 
+ 
+ `Εχθρός`
+ ![Screenshot (37)](https://user-images.githubusercontent.com/94792023/208254406-b46f6971-7a3a-4818-97a9-8f1889022cbb.png)
 
 # 3rd Deliverable 
 
@@ -27,3 +49,6 @@
 
 
 # Sources
+
+
+
