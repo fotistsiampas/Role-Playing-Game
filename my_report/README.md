@@ -18,8 +18,91 @@
 ![Screenshot (15)](https://user-images.githubusercontent.com/94792023/201408931-d0807bdc-52a5-4098-8815-94ae9a73094f.png)
 
 # 2nd Deliverable
+`Δεν έχω αλλάξει το όνομα του παιχνιδιού γράφει ακόμα paradoteo 1 αλλά έχει ανέβει κανονικά`  
+Στο δεύτερο παραδοτέο τα περισσότερα από τα ζητούμενα τα έκανα με βάση κάποια από τα tutorial τα οποία μας δινόντουσαν. Δυσκολεύτηκα λίγο στην κάμερα όπου μετά από μια μικρή αναζήτηση ανακάλυψα ότι μπορεί εκτός από την cinemachine που δίνεται μέσα στο tutorial της Ruby η κάμερα να ακολουθεί τον παίκτη και με ενα script το οποίο το βρήκα από [εδώ](https://www.youtube.com/watch?v=FXqwunFQuao). Ένα ακόμα tutorial το οποίο έψαξα ήταν για το [projectile](https://www.youtube.com/watch?v=wkKsl1Mfp5M)
+βοήθησε αρκετά το παραπάνω βίντεο αλλά εν τέλη αυτό το οποίο ακολούθησα ήταν το tutorial της Ruby. Επίσης ο παίχτης μου κινείται με τα βελάκια και πυροβολεί με το αριστερό κλίκ ή με το ctrl.
+
+`Animation`
+Τα animation τα έκανα όλα βήμα προς βήμα με βάση το tutorial που μας δώθηκε διότι πιστεύω ήταν αρκετά κατευθηντικό και έπαιζε χωρίς πρόβλημα.
+
+ # Animation throw
+![Throw__003](https://user-images.githubusercontent.com/94792023/208254085-f46e3299-ab9a-4476-bf4c-49afa87f2fca.png)
+
+ # Animation run
+
+![Run__002](https://user-images.githubusercontent.com/94792023/208254114-0078dde2-3167-4924-a2dd-37b962e08583.png)
 
 
+ # Animation hurt
+ 
+ ![Dead__004](https://user-images.githubusercontent.com/94792023/208255823-306627c0-605d-482d-96dc-405104a4a71b.png)
+ 
+ 
+ # Animation idle
+ 
+ ![Idle__000](https://user-images.githubusercontent.com/94792023/208255867-220a10cd-115e-4d14-9841-4b1385fd6ee0.png)
+
+
+
+Ο παίχτης μου κινείται δεξία και αριστερά αριστερά κάνοντας flip στον χ το animation και για πάνω και κάτω έχω βάλει τα ίδια abimation διότι το πακέτο με τα asset δεν είχε για πάνω και για κάτω.
+
+Επίσης οριοθέτησα την πίστα με κάποιες πέτρες 
+
+![Screenshot (42)](https://user-images.githubusercontent.com/94792023/208255569-200e6fc2-84dc-4c40-8998-cbb9cf866d0b.png)
+
+Και πρόσθεσα 4 box colliders έτσι ώστε ο παίχτης να μην μπορεί να βγεί εκτός αρένας.
+
+Τώρα όσο αναφορά τα αντικείμενα που πρόσθεσα επιπλεόν στην πίστα μου είναι τα εξής 
+
+![Screenshot (39)](https://user-images.githubusercontent.com/94792023/208254293-c2b3a2da-52c2-459f-b618-65821d2f7fec.png)
+ Βαρέλια τα οποία έχω βάλει colliders για να δυσκολεύεται ο παίχτης να περάσει 
+ 
+ # Εχθρός
+ 
+ ![Screenshot (37)](https://user-images.githubusercontent.com/94792023/208254406-b46f6971-7a3a-4818-97a9-8f1889022cbb.png)
+ 
+ # Animation idle
+ 
+ ![Idle (8)](https://user-images.githubusercontent.com/94792023/208255893-6243a1ee-b0f9-4ad0-9f82-1da9144eacdd.png)
+
+ 
+ # Animation dead
+ 
+ ![Dead (10)](https://user-images.githubusercontent.com/94792023/208255917-acf8cfc6-afff-402a-88c5-04e241938f0b.png)
+
+
+# Animation run 
+
+![Run (6)](https://user-images.githubusercontent.com/94792023/208255941-b14bf816-ce91-4b2b-8e0e-96798a257453.png)
+
+ 
+  Στον εχθρό έβαλα τις παρακάτω παραμέτρους
+  
+  ![Screenshot (44)](https://user-images.githubusercontent.com/94792023/208255283-8c043264-2e77-429a-97f8-931e1aff65d4.png)
+  
+ 
+ # Παγίδα
+ 
+ ![Screenshot (38)](https://user-images.githubusercontent.com/94792023/208254483-75432ef2-7c00-4721-b27f-528d5e907c41.png)
+ 
+ Στην παγίδα έβαλα τα εξής
+ 
+ ![Screenshot (46)](https://user-images.githubusercontent.com/94792023/208255345-1913a00c-c4ea-441c-8ef6-09f9d746686d.png)
+
+
+ # Ζωές
+ 
+ ![Screenshot (41)](https://user-images.githubusercontent.com/94792023/208254511-367e600a-9178-43ca-9ba7-8438d26cb055.png)
+ 
+ 
+ ![Screenshot (48)](https://user-images.githubusercontent.com/94792023/208255394-ca1b34c1-9228-42e2-a560-7413feb5c9e6.png)
+
+ # Όπλο
+ 
+ ![Kunai](https://user-images.githubusercontent.com/94792023/208255418-be686fcb-f2c4-4bb2-819b-4d54f8c7bcc4.png)
+
+![Screenshot (50)](https://user-images.githubusercontent.com/94792023/208255454-128025a2-88b8-450d-bb19-7b933d4ede0e.png)
+ 
 # 3rd Deliverable 
 
 
@@ -27,3 +110,12 @@
 
 
 # Sources
+
+
+
+
+
+
+
+
+
