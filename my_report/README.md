@@ -104,12 +104,26 @@
 ![Screenshot (50)](https://user-images.githubusercontent.com/94792023/208255454-128025a2-88b8-450d-bb19-7b933d4ede0e.png)
  
 # 3rd Deliverable 
-Το τρίτο παραδοτέο το έκανα με βάση το tutorial που μας δόθηκε
+Το τρίτο παραδοτέο το έκανα με βάση το tutorial που μας δόθηκε. Το teleport το υλοποήσα με βάση το [βίντεο](https://www.youtube.com/watch?v=0JXVT28KCIg).
+Για το menu με βοήθησε πολύ το [tutorial video](https://www.youtube.com/watch?v=zc8ac_qUXQY) και για το [score](https://www.youtube.com/watch?v=cOW_T3i4_kk).
+
+`Score`
+
+![Screenshot (52)](https://user-images.githubusercontent.com/94792023/212321284-63dd82b3-3023-423c-a685-5e863768ec5e.png)
+
+`Teleport`
+
+![Artifact](https://user-images.githubusercontent.com/94792023/212321548-a930ae15-d257-436b-872b-7bc62c23659e.png)
+
+
+Τους ήχους τους κατέβασα από το youtube και τους μετέτρεψα σε mp3 και έπειτα τους έβαλα στο παιχνίδι μου.
+
 
 # Conclusions
 
 
 # Sources
+
 
 
 
