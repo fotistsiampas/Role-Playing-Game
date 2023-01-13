@@ -104,7 +104,7 @@
 ![Screenshot (50)](https://user-images.githubusercontent.com/94792023/208255454-128025a2-88b8-450d-bb19-7b933d4ede0e.png)
  
 # 3rd Deliverable 
-
+Το τρίτο παραδοτέο το έκανα με βάση το tutorial που μας δόθηκε
 
 # Conclusions
 
