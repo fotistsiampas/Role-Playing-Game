@@ -122,6 +122,16 @@
 ![Artifact](https://user-images.githubusercontent.com/94792023/212321548-a930ae15-d257-436b-872b-7bc62c23659e.png)
 
 
+`Health bar`
+Διάλεξα μία μπάρα ζωής που ταίριαζε με το παιχνίδι μου την οποία την πήρα από το [site](https://alessio-scalabrino.itch.io/bars-health-and-energy-hud). Ακολουθώντας το tutorial που μας δώθηκε έβαλα την μπάρα και έκοψα τον χαρακτήρα έτσι ώστε να τον έχω δίπλα στην μπάρα ζωής για να είναι πιο προσαρμοσμένο στο παιχνίδι.
+
+![EmplyBar](https://user-images.githubusercontent.com/94792023/212493945-9f904373-4f1e-4a00-ada0-ea6aaa7fd241.png)
+![HealthFill](https://user-images.githubusercontent.com/94792023/212493951-06c4d6eb-e7e6-470e-a33c-f090d19d31e7.png)
+
+`Raycast`
+
+Αφού βρήκα ένα χαρακτήρα απο το ίδιο [site](https://www.gameart2d.com/freebies.html) του χαρακτήρα μου και αφού ακολούθησα βήμα βήμα το tuturial της ruby και έβαλα το πλήκτρο X για να κάνει διάλογο με τον χαρακτήρα που επέλεξα.   
+
 Τους ήχους τους κατέβασα από το youtube και τους μετέτρεψα σε mp3 και έπειτα τους έβαλα στο παιχνίδι μου.
 
 
