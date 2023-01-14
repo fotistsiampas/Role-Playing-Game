@@ -107,6 +107,12 @@
 Το τρίτο παραδοτέο το έκανα με βάση το tutorial που μας δόθηκε. Το teleport το υλοποήσα με βάση το [βίντεο](https://www.youtube.com/watch?v=0JXVT28KCIg).
 Για το menu με βοήθησε πολύ το [tutorial video](https://www.youtube.com/watch?v=zc8ac_qUXQY) και για το [score](https://www.youtube.com/watch?v=cOW_T3i4_kk).
 
+`Visual Styling - Particles`
+
+Βρήκα το εφέ απο το διαδίκτυο εναα μόβ καπνό και αφού έκανα τις απαραίτητες ρυθμίσεις με βάση το tutorial που μας δώθηκε το προσάρμοσα στα αντικείμενα τα οποία ο παίχτης μου πέρνει για ζωή.
+
+![ζωη καπνός](https://user-images.githubusercontent.com/94792023/212491995-e273f716-5c85-499d-8d76-cb3c983eb7bc.png)
+
 `Score`
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/94792023/212321284-63dd82b3-3023-423c-a685-5e863768ec5e.png)
@@ -133,3 +139,4 @@
 
 
 
+![ζωη καπνός](https://user-images.githubusercontent.com/94792023/212491995-e273f716-5c85-499d-8d76-cb3c983eb7bc.png)
